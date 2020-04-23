@@ -86,6 +86,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Debtor.cs" />
     <Compile Include="Model\Expense.cs" />
     <Compile Include="Model\Group.cs" />

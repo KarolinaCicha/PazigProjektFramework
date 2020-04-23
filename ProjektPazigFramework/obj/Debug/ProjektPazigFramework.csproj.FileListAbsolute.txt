@@ -74,3 +74,41 @@ C:\Users\agata\Desktop\Biomedical Engeneering\semestr VI\Mój\pazigi\Projekt- gi
 C:\Users\agata\Desktop\Biomedical Engeneering\semestr VI\Mój\pazigi\Projekt- github2\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.csproj.CopyComplete
 C:\Users\agata\Desktop\Biomedical Engeneering\semestr VI\Mój\pazigi\Projekt- github2\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.exe
 C:\Users\agata\Desktop\Biomedical Engeneering\semestr VI\Mój\pazigi\Projekt- github2\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.pdb
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\ProjektPazigFramework.exe.config
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\ProjektPazigFramework.exe
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\ProjektPazigFramework.pdb
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\CommonServiceLocator.dll
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\ControlzEx.dll
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\EntityFramework.dll
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\MahApps.Metro.dll
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\ControlzEx.pdb
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\EntityFramework.xml
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\MahApps.Metro.pdb
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\bin\Debug\MahApps.Metro.xml
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.csprojAssemblyReference.cache
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\MainWindow.g.cs
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\App.g.cs
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework_MarkupCompile.cache
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework_MarkupCompile.lref
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\App.baml
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\MainWindow.baml
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.g.resources
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.Properties.Resources.resources
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.csproj.GenerateResource.cache
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.csproj.CopyComplete
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.exe
+C:\Users\Karolina\Documents\GitHub\PazigProjektFramework\ProjektPazigFramework\obj\Debug\ProjektPazigFramework.pdb

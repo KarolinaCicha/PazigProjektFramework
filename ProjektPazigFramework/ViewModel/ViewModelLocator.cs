@@ -46,13 +46,13 @@ namespace ProjektPazigFramework.ViewModel
             SimpleIoc.Default.Register<MainViewModel>();
         }
 
-         MainViewModel Main
-        {
+         public MainViewModel Main
+         {
             get
             {
                 return ServiceLocator.Current.GetInstance<MainViewModel>();
             }
-        }
+         }
         
         public static void Cleanup()
         {

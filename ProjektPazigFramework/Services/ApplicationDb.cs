@@ -13,7 +13,7 @@ namespace ProjektPazigFramework.Services
     {
         public ApplicationDb() : base("name=DefaultConnection")
         {
-            Database.SetInitializer(new ApplicationDbInitializer());
+            //Database.SetInitializer(new ApplicationDbInitializer());
         }
         public DbSet<Person> People { get; set; }
         public DbSet<ProjektPazigFramework.Model.Group> Groups { get; set; }

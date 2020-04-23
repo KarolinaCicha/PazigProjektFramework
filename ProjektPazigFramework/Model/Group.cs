@@ -6,10 +6,23 @@ using System.Threading.Tasks;
 
 namespace ProjektPazigFramework.Model
 {
-    class Group
+    public class Group
     {
+
         public int GroupId { get; set; }
         public string GroupName { get; set; }
+
+        public override string ToString()
+        {
+            //if (PeopleInGroup != null)
+            //{
+            //    return $"{GroupId}  |   {GroupName}   | Członkowie: {PeopleInGroup.ToList().First().Name}";
+            //}
+            //else
+            {
+                return $"{GroupId}  |   {GroupName}";
+            }
+        }
 
         public virtual ICollection<Person> PeopleInGroup { get; set; }
     }

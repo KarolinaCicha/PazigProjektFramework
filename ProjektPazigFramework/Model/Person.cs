@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProjektPazigFramework.Model
 {
-    class Person
+    public class Person
     {
         [Key]
         public int PersonId { get; set; }
@@ -16,5 +16,10 @@ namespace ProjektPazigFramework.Model
         public int NrIndexInGroup { get; set; }
         public int GroupId { get; set; }
         public Group Group { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Name}, {PersonId}";
+        }
     }
 }
